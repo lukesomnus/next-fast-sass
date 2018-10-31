@@ -26,7 +26,7 @@ module.exports = (nextConfig = {}) => {
         isServer,
         loaders: [
           {
-            loader: 'sass-fast-loader-china2',
+            loader: 'fast-sass-loader-china2',
             options: sassLoaderOptions
           }
         ]

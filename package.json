@@ -1,17 +1,16 @@
 {
-    "name": "next-fast-sass",
-    "version": "0.2.1-canary.3",
-    "main": "index.js",
-    "license": "MIT",
-    "dependencies": {
-      "@zeit/next-css": "0.2.1-canary.3",
-      "sass-fast-loader-china2": "1.4.6"
-    },
-    "devDependencies": {
-      "node-sass-china": "^4.7.2"
-    },
-    "peerDependencies": {
-      "node-sass-china": "^4.7.2"
-    },
-    "gitHead": "31e8978d07e5468f760a222a72d1e8f3f457e6ff"
+  "name": "next-fast-sass",
+  "version": "0.2.1-canary.3",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-css": "0.2.1-canary.3",
+    "fast-sass-loader-china2": "1.4.6"
+  },
+  "devDependencies": {
+    "node-sass-china": "^4.7.2"
+  },
+  "peerDependencies": {
+    "node-sass-china": "^4.7.2"
   }
+}
