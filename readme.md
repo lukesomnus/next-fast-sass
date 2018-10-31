@@ -5,13 +5,13 @@ Import `.sass` or `.scss` files in your Next.js project
 ## Installation
 
 ```
-npm install --save @zeit/next-sass node-sass
+npm install --save next-fast-sass node-sass-china
 ```
 
 or
 
 ```
-yarn add @zeit/next-sass node-sass
+yarn add next-fast-sass node-sass-china
 ```
 
 ## Usage
