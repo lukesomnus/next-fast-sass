@@ -1,4 +1,4 @@
-# Next.js + Sass
+# Next.js + fast-sass + node-sass-china
 
 Import `.sass` or `.scss` files in your Next.js project
 
